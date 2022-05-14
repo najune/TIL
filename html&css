@@ -1,0 +1,32 @@
+# TIL
+
+### 1. html
+
+- html 파일에서 style지정하지말고 css에서 지정, html파일은 최대한 단순하게 할 것
+
+  #####  1-1 이미지,영상파일 넣기
+
+  #####  ![123](C:\Users\student\Pictures\123.png)
+
+#####     1-2 실행결과
+
+![w](C:\Users\student\Pictures\w.png)
+
+
+
+- action 
+
+
+
+### 2. 기본적인 개발환경세팅하기
+
+- poxm.xml에 소스 업데이트
+- resources/application.properties 에 포트 지정하기
+- src/main/webapp폴더에 WEB-INF만들고 그안에 views파일 만들기
+
+
+
+### 3. jsp쓰는 이유
+
+-  서버가 127.0.0.1을 호출하면 jsp가 프로그램적으로 html을 만들어서 내보냄
+-  html로만은 구동못함
